@@ -1,0 +1,145 @@
+h4 {
+      font-family: 'Times', cursive;
+      color: orange;
+      font-size: 1.8rem;
+	  #font-weight: bold;
+}
+input[type=checkbox]
+{
+  /* Double-sized Checkboxes */
+  -ms-transform: scale(1.3); /* IE */
+  -moz-transform: scale(1.3); /* FF */
+  -webkit-transform: scale(1.3); /* Safari and Chrome */
+  -o-transform: scale(1.3); /* Opera */
+  transform: scale(1.3);
+  padding: 10px;
+}
+span {
+      font-family: 'Times', cursive;
+      color: yellow;
+      font-size: 1.5rem;
+	  display: inline;
+}
+h2 {
+      font-family: 'Arial', cursive;
+      color: white;
+      font-size: 3.5rem;
+	  #font-weight: bold;
+}
+.form-group {
+	font-family: 'Times', cursive;
+    color: yellow;
+    font-size: 2rem;
+}
+.item {
+	font-family: 'Times', cursive;
+    color: green;
+    font-size:1.5rem;
+}
+.irs-min {
+	font-family: 'Times', cursive;
+    color: white;
+    font-size:1.5rem;
+}
+.irs-max {
+	font-family: 'Times', cursive;
+    color: white;
+    font-size:1.5rem;
+}
+li {
+   font-family: "Times New Roman", Times, serif;
+    color: #9933CC;
+    font-size: 2rem;
+}
+p {
+   font-family: 'Lobster', cursive;
+    color: #9933CC;
+    font-size: 2rem;
+}
+.shiny-text-output {
+   font-family: 'Times', cursive;
+    color: orange;
+    font-size: 2rem;
+}
+.navbar-brand{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 3rem;
+}
+h3{
+    font-family: 'Lobster', cursive;
+    color: #F39C12;
+    font-size: 2rem;
+}
+.btn-default{
+   background-color: purple;
+   border-color: none;
+ }
+ .btn-default:hover{
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+ background-image: linear-gradient(to bottom, #F39C12 0px, #F39C12 100%);
+}
+.well{
+   background-color: georgian;
+}
+.dataTable{
+    font-family: "Times New Roman", Times, serif;
+	color: orange;
+    font-size: 1.3rem;
+}
+.display{
+    font-family: "Times New Roman", Times, serif;
+	color: orange;
+    font-size: 1.3rem;
+}
+.dataTables_filter label{
+    font-family: "Times New Roman", Times, serif;
+	color: green;
+    font-size: 1.4rem;
+}
+.dataTables_length label{
+    font-family: "Times New Roman", Times, serif;
+	color: green;
+    font-size: 1.4rem;
+}
+.dataTables_paginate label{
+    font-family: "Times New Roman", Times, serif;
+	color: green;
+    font-size: 1.4rem;
+}
+.paging_simple_numbers label{
+    font-family: "Times New Roman", Times, serif;
+	color: green;
+    font-size: 1.4rem;
+}
+.paginate_button{
+    font-family: "Times New Roman", Times, serif;
+	color: green;
+    font-size: 1.4rem;
+}
+.dataTables_info label{
+    font-family: "Times New Roman", Times, serif;
+	color: green;
+    font-size: 1.4rem;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover{
+	background: none;
+	color: green!important;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button:active{
+	background: none;
+	color: green!important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
